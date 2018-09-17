@@ -1,0 +1,4 @@
+.idea/
+*.pyc
+text_analysis/*.pyc
+test/
